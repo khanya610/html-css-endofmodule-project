@@ -1,0 +1,43 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+head{
+    background-color: darkblue;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.card1{
+    width: 20%;
+    background-color: lightblue;
+    border-radius: 5px;
+    margin: 40px;
+    box-shadow: 2px 2px coral;
+}
+
+.image img{
+    width: 100%;
+    border-top-left-radius: 80px;
+    border-top-right-radius: 80px;
+}
+
+.title{
+    text-align: center;
+}
+
+.des{
+    text-align: center;
+}
+
+button{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: white;
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+}
